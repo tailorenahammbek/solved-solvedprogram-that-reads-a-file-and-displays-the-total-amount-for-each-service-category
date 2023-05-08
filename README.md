@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedprogram-that-reads-a-file-and-displays-the-total-amount-for-each-service-category
+<br>
+A hotel salesperson enters sales in a text file. Each line contains the following separated by semicolons: The name of the client, the service sold (such as dinner, conference, lodging, and so on), the amount of the sale and the date of that event. Write a program that reads such a file and displays the total amount for each service category. Display an error in the file does not exists or the format is incorrect.
